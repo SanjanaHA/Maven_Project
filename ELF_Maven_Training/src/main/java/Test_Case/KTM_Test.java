@@ -13,7 +13,7 @@ package Test_Case;
 		@Test
 		public void ktm() {
 			
-			System.setProperty("webdriver.chrome.driver","./drivers/chromedriver_win32/chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
 
 			
 			WebDriver driver=new ChromeDriver();

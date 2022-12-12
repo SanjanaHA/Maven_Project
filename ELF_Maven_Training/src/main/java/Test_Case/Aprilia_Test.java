@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class Aprilia_Test {
 @Test
 public void app() {
-	System.setProperty("webdriver.chrome.driver","./drivers/chromedriver_win32/chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
 		
 		WebDriver driver=new ChromeDriver();
 		

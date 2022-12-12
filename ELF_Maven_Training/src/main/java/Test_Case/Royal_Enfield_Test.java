@@ -12,7 +12,7 @@ package Test_Case;
 			@Test
 			public void royal(){
 				
-				System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
 				
 				WebDriver driver=new ChromeDriver();
 				

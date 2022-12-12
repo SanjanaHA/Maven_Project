@@ -5,8 +5,8 @@
     <classes>
       <class name="Test_Case.Honda_Test"/>
       <class name="Test_Case.Royal_Enfield_Test"/>
-      <class name="Test_Case.KTM_Test"/>
       <class name="Test_Case.Aprilia_Test"/>
+      <class name="Test_Case.KTM_Test"/>
       <class name="Test_Case.Yamaha_Test"/>
     </classes>
   </test> <!-- Test -->
